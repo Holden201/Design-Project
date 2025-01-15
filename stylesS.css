@@ -1,0 +1,36 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 20em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#choose{
+    background-color: white;
+    color: black;
+    border: 20px rgb(32, 4, 4) solid;
+    font-size: 30em;
+    width: 25%;
+    border-radius: 20px;
+}
+#submit{
+    background-color: rgb(188, 185, 185);
+    color: black;
+    border: 20px rgb(32, 4, 4) solid;
+    font-size: 30em;
+    width: 25%;
+    border-radius: 20px;
+}
+#reset{
+    background-color: rgb(188, 185, 185);
+    color: black;
+    border: 20px rgb(32, 4, 4) solid;
+    font-size: 30em;
+    width: 25%;
+    border-radius: 20px;
+}
+.Death{
+    float: left;
+}

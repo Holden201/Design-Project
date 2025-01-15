@@ -1,0 +1,30 @@
+table{
+    width: 100%;
+    background-color: rgb(106, 106, 106);
+}
+td{
+    width: 20%;
+    font-size: 7em;
+    background-color: rgb(106, 106, 106);
+    background-color: black;
+    text-align: center;
+}
+header{
+    border: 2px solid white;
+    background-color: rgb(106, 106, 106);
+    border-radius: 20px;
+}
+h1{
+    font-family: 'Shlop', sans-serif;
+    font-size: 30em;
+    background-color: rgb(106, 106, 106);
+    color: red;
+    text-align: center;
+}
+img{
+    height: 100%;
+    width: 20%;
+    border: 2px solid white;
+}
+/*Basic stuff that all pages have in common*/
+/*Note: unfortunatly, my site only works if the tab is at 25% magnification*/

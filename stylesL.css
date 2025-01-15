@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+input{
+    font-size: 10em;
+    align-items: center;
+    color: white;
+    width: 35%;
+    border-radius: 20px;
+    border: white solid 3px;
+    display: flex;
+}
+label{
+    color: white;
+    font-size: 5em;
+    display: flex;
+}
+#submit{
+    background-color: rgb(166, 166, 166);
+    width: 25%;
+    color: rgb(184, 9, 9);   
+    border-radius: 20px;
+}
+#reset{
+    background-color: rgb(166, 166, 166);
+    width: 25%;
+    color: rgb(184, 9, 9);
+    border-radius: 20px;
+}
+.good_job{
+    float: right;
+    width: 29.76615%;
+    height: 29.76615%;
+}
+.Death{
+    float: left;
+}

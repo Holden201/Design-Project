@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+    text-align: center;
+}
+.Death{
+    float: left;
+}
+p{
+    font-size: 11em;
+    color: rgb(227, 227, 227);
+    border: inset rgb(212, 9, 9) 12px;
+    width: 85%;
+    margin: auto;
+}
+h2{
+    color: white;
+    font-size: 6em;
+}
+.incert{
+    align-items: center;
+    width: 25%;
+    margin-left: 2.5%;
+    border: 10px;
+    border-radius: 12px;
+}
+/*boder around images to make the corners smooth.*/
